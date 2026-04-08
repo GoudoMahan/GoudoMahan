@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%F0%9F%91%8B+I'm+Mo_Han136" alt="Typing SVG" /></a>
 
+### A student from School of Mechanical Engineering, Shanghai Jiao Tong University
+
 ### pre-OIer and pre-ACMer
 - 🥇 Gold Medal of the 2023 ICPC Hangzhou
 - 🥇 Gold Medal of the 2024 ICPC Shanghai
