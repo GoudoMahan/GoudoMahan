@@ -3,7 +3,9 @@
 ### A student from School of Mechanical Engineering, Shanghai Jiao Tong University
 
 ### pre-OIer and pre-ACMer
+- 🥇 Gold Medal of the 2023 ICPC Hefei
 - 🥇 Gold Medal of the 2023 ICPC Hangzhou
+- 🥇 Gold Medal of the 2024 CCPC Chongqing
 - 🥇 Gold Medal of the 2024 ICPC Shanghai
 - 🥈 Silver Medal of the 2024 ICPC EC-Final
 
